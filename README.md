@@ -1,4 +1,4 @@
-# iTrace-Toolkit
+# iTrace-ScreenRecording
 OBS Plugin for Screen Recording during an iTrace-Core Tracking session.
 
 To use, ensure that you have Python 3.6 installed on your machine. 3.6 is required, and any other version will not work. Python 3.6 does not need to be added to your PATH, and it can be installed anywhere.
